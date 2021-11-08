@@ -1,4 +1,4 @@
-# bjmoviesmockup_hci_lab
+# BJ Movies
 
 A new Flutter project.
 
